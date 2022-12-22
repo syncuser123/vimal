@@ -35,7 +35,8 @@
   "Resource_Id": 3,
   "State_Id": 10,
   "Operator_Id": 2
- } {
+ },
+ {
   "Production_Id": 3,
   "Well_Id": 60,
   "Date": "7\/11\/2022 12:00:00 AM",
